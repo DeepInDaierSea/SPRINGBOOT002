@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>expression_01</title>
+</head>
+<body>
+<h1>hello word!!!</h1>
+<p>this is a html page</p>
+
+<p>这里是标准表达式页面</p>
+<p th:text="${id}">id</p>
+<p th:text="${name}">name</p>
+<p th:text="${age}">age</p>
+<p th:text="${sport}">sport</p>
+
+<----------------------------->
+<h1 th:text="${user.id}"></h1>
+<h1 th:text="${user.name}"></h1>
+<h1 th:text="${user.age}"></h1>
+<h1 th:text="${user.sport}"></h1>
+<=============================>
+<h2 th:text="${user.getId()}"></h2>
+<h2 th:text="${user.getName()}"></h2>
+<h2 th:text="${user.getAge()}"></h2>
+<h2 th:text="${user.getSport()}"></h2>
+
+<div th:object="${user}">
+    <p th:text="*{id}">id</p>
+    <p th:text="*{name}">name</p>
+    <p th:text="*{age}">age</p>
+    <p th:text="*{sport}">sport</p>
+</div>
+
+<a th:href="@{/link}">bash me twice</a>
+<a th:href="@{link}">aaa</a>
+<a href="/link">bbb</a>
+
+
+</body>
+</html>

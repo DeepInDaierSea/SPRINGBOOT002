@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/springboot_01_configuration/src/test/java/com/zkh/springboot/demo/Test01.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_02_first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_02_first/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_second/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_03_second/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_04_applicationIncetance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_04_applicationIncetance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_04_applicationIncetance/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_05_comandeLineRunner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_05_comandeLineRunner/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_06_intercapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_06_intercapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_07_servlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_07_servlet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_08_filter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_08_filter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_09_characterFileter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_09_characterFileter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_10_character_properties/springboot_18_thymleaf_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_10_character_properties/springboot_18_thymleaf_01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_10_character_properties/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_10_character_properties/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_11_mybatis_mapper_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_11_mybatis_mapper_annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_12_mybatis_mapperScan_annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_12_mybatis_mapperScan_annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_13_restful/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_13_restful/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_14_redis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_14_redis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_15_dubbo_interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_15_dubbo_interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_16_dubbo_provider/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_16_dubbo_provider/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_17_dubbo_consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_17_dubbo_consumer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_18_thymleaf_01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_18_thymleaf_01/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

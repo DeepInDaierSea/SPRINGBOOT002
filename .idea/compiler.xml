@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_01_configuration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot_02_first" target="1.5" />
+      <module name="springboot_03_second" target="1.5" />
+      <module name="springboot_04_applicationIncetance" target="1.5" />
+      <module name="springboot_05_comandeLineRunner" target="1.5" />
+      <module name="springboot_06_intercapter" target="1.5" />
+      <module name="springboot_07_servlet" target="1.5" />
+      <module name="springboot_08_filter" target="1.5" />
+      <module name="springboot_09_characterFileter" target="1.5" />
+      <module name="springboot_10_character_properties" target="1.5" />
+      <module name="springboot_11_mybatis_mapper_annotation" target="1.5" />
+      <module name="springboot_12_mybatis_mapperScan_annotation" target="1.5" />
+      <module name="springboot_13_restful" target="1.5" />
+      <module name="springboot_14_redis" target="1.5" />
+      <module name="springboot_15_dubbo_interface" target="1.8" />
+      <module name="springboot_16_dubbo_provider" target="1.5" />
+      <module name="springboot_17_dubbo_consumer" target="1.5" />
+      <module name="springboot_18_thymleaf_01" target="1.5" />
+      <module name="springboot_18_thymleaf_01 (2)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

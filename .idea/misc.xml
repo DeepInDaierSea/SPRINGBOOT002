@@ -1,0 +1,37 @@
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_01_configuration/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_02_first/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_03_second/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_04_applicationIncetance/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_05_comandeLineRunner/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_06_intercapter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_07_servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_08_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_09_characterFileter/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_10_character_properties/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_11_mybatis_mapper_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_12_mybatis_mapperScan_annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_13_restful/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_14_redis/pom.xml" />
+        <option value="$PROJECT_DIR$/springbppt_15_dubbo_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_15_dubbo_interface/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_16_dubbo_provider/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_17_dubbo_consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_10_character_properties/springboot_18_thymleaf_01/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_18_thymleaf_01/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/springboot_10_character_properties/springboot_18_thymleaf_01/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

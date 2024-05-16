@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html  lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+<h1>hello word!!!</h1>
+<p>this is a html page</p>
+
+<form action="user/new" method="get">
+    标识:<input type="text" name="id"><br>
+    名字:<input type="text" name="name"><br>
+    年龄:<input type="text" name="age"><br>
+    爱好:<input type="text" name="sport"><br>
+    <input type="submit" value="提交">
+</form>
+
+    <a href="/link">bash me</a>
+    <a th:href="@{/link}">bash me twice</a>
+    <a th:href="@{link}">aaa</a>
+    <a href="@{/link}">bbb</a>
+</body>
+</html>
